@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iact_data.txt | head -3 | tail -1
+cat iact_data.txt | head -3
